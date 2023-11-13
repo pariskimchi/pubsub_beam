@@ -1,0 +1,13 @@
+gcp_config:
+  project_id: 
+  credential_json_path : 
+  pubsub_topic_name:
+
+data:
+  csv_data_path: 
+
+config_subscription:
+  subscipription_id:
+
+bq_config:
+  bq_dataset_name: "bq_pubsub_beam_dataset"

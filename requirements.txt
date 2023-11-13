@@ -1,0 +1,5 @@
+apache-beam[pubsub]
+apache-beam[gcp]
+google-cloud-pubsub
+omegaconf
+google-cloud-bigquery
